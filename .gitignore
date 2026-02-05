@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+
+# IDE files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model artefacts
+*.pkl
+
+# Plots / generated images
+*.png
+
+# OS junk
+.DS_Store
+
+
