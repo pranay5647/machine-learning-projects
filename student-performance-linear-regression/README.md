@@ -12,6 +12,11 @@ Predict students’ final grade (G3) using the UCI Student Performance dataset.
 - Linear Regression (scikit-learn)
 - Train/Test split: 75% / 25% (random_state=5)
 
+## Model diagnostics
+The plot shows predicted vs actual final grades on the test set.  
+Points close to the diagonal indicate accurate predictions, with expected noise due to unobserved factors.
+
+
 ## Results (test set)
 - MAE ≈ 1.38
 - RMSE ≈ 2.42
